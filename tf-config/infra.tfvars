@@ -1,4 +1,4 @@
-aws_region  = "us-west-1"
+aws_region  = "us-east-1"
 system_name = "prod"
 vpc_enable_nat_gateway = false
 vpc_single_nat_gateway = false
