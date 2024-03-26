@@ -9,4 +9,5 @@ commontags = {
   release           = "myrelease"
   platformName      = "develop"
 }
-public-lb-secgroup-ipv4cidrs= ["88.1.185.251/32"]
+public-lb-secgroup-ipv4cidrs = ["88.1.185.251/32"]
+public-lb-secgroup-ipv6cidrs = []
